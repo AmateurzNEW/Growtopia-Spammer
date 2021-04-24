@@ -1,0 +1,2 @@
+# Growtopia-Spammer
+Night Spammer
